@@ -1,2 +1,2 @@
-# netty-playgroun
-Experiments with Netty 🔬👾
+# netty-playground
+My experiments on/with [netty](https://netty.io/) 🔬👾
