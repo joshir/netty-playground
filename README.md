@@ -1,1 +1,2 @@
-# netty-playground
+# netty-playgroun
+Experiments with Netty 🔬👾
